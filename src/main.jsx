@@ -1,5 +1,5 @@
 var React = require('react');
 var ReactDom = require('react-dom');
-var TodoApp = require('TodoApp');
+var SuperheroApp = require('SuperheroApp');
 
-ReactDom.render(<TodoApp />, document.getElementById("app"));
+ReactDom.render(<SuperheroApp />, document.getElementById("app"));
